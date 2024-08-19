@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-  - [Randomizer Game using Bash Script](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Randomizer Game using Bash Script](https://github.com/Brandon5182/BashLab/blob/main/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
