@@ -7,17 +7,30 @@
 - Microsoft AZ-900
 - UTSA CyberSecurity Bootcamp
 
-<h2>👨‍💻 Cloud Engineering Projects:</h2>
+<h2> ☁️ Cloud Engineering Projects:</h2>
 
   - [Randomizer Game using Bash Script](https://github.com/Brandon5182/BashLab/blob/main/README.md)
 
-<h2>📺 Cloud Assignments</h2>
+<h2>📺 Docker Assignments</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to set up a web server using Nginx]()
+- [How to build own Dockerfile and run it from container]()
+- [How to Create a KeyLogger (C#)]()
+- [Ransomware Demonstration (C#)]()
+- [Is WGU Legit?]()
+
+<h2>📺 Bash Scripting Assignments</h2>
+
+<h2>💻 Kubernetes Assignments</h2>
+
+
+<h2>🖥️ Ansible Assignments</h2>
+
+<h2>📺 Terraform Assignments</h2> 
+
+<h2>📺 Linux Assignments</h2>
+
+<h2>📺 CI/CD Assignments</h2>
 
 <h2> 🤳 Connect with me:</h2>
                          
