@@ -21,6 +21,7 @@
 
 <h2>📺 Bash Scripting Assignments</h2>
 
+- [Assignment 1 ]()
 
 <h2>💻 Kubernetes Assignments</h2>
 
