@@ -21,7 +21,7 @@
 
 <h2>📺 Bash Scripting Assignments</h2>
 
-- [Assignment 1 ]()
+- [Millionaire Timeline ](https://github.com/Brandon5182/Bash_assignment1/blob/main/README.md)
 
 <h2>💻 Kubernetes Assignments</h2>
 
