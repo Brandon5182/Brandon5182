@@ -13,7 +13,7 @@
 
 <h2>📺 Docker Assignments</h2>
 
-- [How to set up a web server using Nginx]()
+- [How to set up a web server using Nginx](https://github.com/Brandon5182/Docker_Assignment1/blob/main/README.md)
 - [How to build own Dockerfile and run it from container]()
 - [Assignment 3 ]()
 - [Assignment 4 ]()
