@@ -24,8 +24,7 @@
 - [Millionaire Timeline ](https://github.com/Brandon5182/Bash_assignment1/blob/main/README.md)
 
 <h2>💻 Kubernetes Assignments</h2>
-
-
+- [How to set up a deployment]()
 <h2>🖥️ Ansible Assignments</h2>
 
 <h2>📺 Terraform Assignments</h2> 
