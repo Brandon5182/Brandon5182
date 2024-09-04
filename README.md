@@ -3,6 +3,7 @@
 
 
 <h2>💻 Certifications </h2>
+
 - CompTIA Security Plus
 - Microsoft AZ-900
 - UTSA CyberSecurity Bootcamp
