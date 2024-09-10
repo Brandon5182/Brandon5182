@@ -16,9 +16,7 @@
 
 - [How to set up a web server using Nginx](https://github.com/Brandon5182/Docker_Assignment1/blob/main/README.md)
 - [How to build own Dockerfile and run it from container NOT COMPLETE]()
-- [Assignment 3 NOT COMPLETE ]()
-- [Assignment 4 NOT COMPLETE ]()
-- [Assignment 5 NOT COMPLETE]()
+  
 
 <h2>📺 Bash Scripting Assignments</h2>
 
