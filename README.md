@@ -26,7 +26,7 @@
 
 - [How to set up a deployment](https://github.com/Brandon5182/Kubectl_Deployment)
 <h2>🖥️ Ansible Assignments</h2>
-
+-drawio ini and yaml
 <h2>📺 Terraform Assignments</h2> 
 
 <h2>📺 Linux Assignments</h2>
@@ -34,6 +34,8 @@
 <h2>📺 CI/CD Assignments</h2>
 
 <h2> 🤳 Connect with me:</h2>
+
+<h2> 🛜 AWS Assignments:</h2>
                          
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
