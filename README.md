@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! <br/><a href="https://github.com/Brandon5182">Inspiring Cloud Professional</a>, <a href="https://www.linkedin.com/in/brandon-simmons-52b242236/">Cybersecurity Teacher Assistant</a> </h1>
+<h1>Hi, I'm Brandon! <br/><a href="https://github.com/Brandon5182">Inspiring Cloud Professional</a>, <a href="https://www.linkedin.com/in/brandon-simmons-52b242236/">Cybersecurity Teacher Assistant</a>, <a href="https://www.linkedin.com/in/brandon-simmons-52b242236/">IT Help Desk</a>  </h1>
 
 
 
