@@ -15,7 +15,6 @@
 <h2>📺 Docker Assignments</h2>
 
 - [How to set up a web server using Nginx](https://github.com/Brandon5182/Docker_Assignment1/blob/main/README.md)
-- [How to build own Dockerfile and run it from container NOT COMPLETE]()
   
 
 <h2>📺 Bash Scripting Assignments</h2>
@@ -25,13 +24,6 @@
 <h2>💻 Kubernetes Assignments</h2>
 
 - [How to set up a deployment](https://github.com/Brandon5182/Kubectl_Deployment)
-<h2>🖥️ Ansible Assignments</h2>
--drawio ini and yaml
-<h2>📺 Terraform Assignments</h2> 
-
-<h2>📺 Linux Assignments</h2>
-
-<h2>📺 CI/CD Assignments</h2>
 
 <h2> 🛜 AWS Assignments:</h2>
 
