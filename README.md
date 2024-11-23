@@ -28,6 +28,7 @@
 <h2> 🛜 AWS Assignments:</h2>
 
 - [How to create a Load Balancer](https://github.com/Brandon5182/AWS.LB/blob/main/README.md)
+-  create DynamoDB table
 
 <h2> 🤳 Connect with me:</h2>
                          
