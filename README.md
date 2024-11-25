@@ -28,7 +28,7 @@
 <h2> 🛜 AWS Assignments:</h2>
 
 - [How to create a Load Balancer](https://github.com/Brandon5182/AWS.LB/blob/main/README.md)
--  create DynamoDB table
+- [How to create a DynamoDB Table](https://github.com/Brandon5182/AWS-DynamoDB)
 -  Create EBS volume and configure the ec2
 
 <h2> 🤳 Connect with me:</h2>
