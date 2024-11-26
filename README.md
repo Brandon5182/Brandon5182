@@ -29,7 +29,7 @@
 
 - [How to create a Load Balancer](https://github.com/Brandon5182/AWS.LB/blob/main/README.md)
 - [How to create a DynamoDB Table](https://github.com/Brandon5182/AWS-DynamoDB)
--  Create EBS volume and configure the ec2
+- [Create EBS volume and configure the EC2]()
 
 <h2> 🤳 Connect with me:</h2>
                          
